@@ -1,0 +1,14 @@
+e43c23ae7a8071d645789a18b2057e2a *DESCRIPTION
+445047609ce33cc907873d1bac05efef *NAMESPACE
+55a3b4e978d57b6b95cd02ee05516ad6 *R/VisTaperShape3d.R
+24fea027b05bd651a6e9ac826e717e32 *R/plotStem2d.R
+4886a1fee70af81fbafc43fdc6e9668f *R/plotStem3d.R
+eb44205acc9ea0b92edd65cc7aaa9e63 *R/poly5Model.R
+3aa20fdd5b7d8c00d07e8fb045fdacca *data/ForestInv01.rda
+eb8f6612c85e36ea7f732bfab35f79e3 *inst/exdata/ForestInv01.csv
+a6b843c5106bb58fb5764abd4c6f25a1 *inst/exdata/taper.csv
+c9a88b6b26ba4bb9bf0a40541c3947bf *man/ForestInv01.Rd
+8ff9220007c05829fdc85d875a0a41d9 *man/VisTaperShape3d.Rd
+1689ff14e8f80e6d9c575aa187aef4e3 *man/plotStem2d.Rd
+dd476244c51ac26fd54d4a9c95041e1e *man/plotStem3D.Rd
+271409931ae1ebc286108595d4502328 *man/poly5Model.Rd
